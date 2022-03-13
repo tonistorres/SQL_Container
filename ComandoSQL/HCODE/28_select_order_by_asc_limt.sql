@@ -1,0 +1,1 @@
+select *from tb_funcionario order by salario,nome asc  limit 4;
