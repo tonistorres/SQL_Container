@@ -1,0 +1,1 @@
+select * from tb_pessoas p right outer join tb_funcionarios f on p.idpessoa=f.idpessoa;
