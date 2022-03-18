@@ -1,5 +1,5 @@
 ## Boas Vindas ao repositóiro de Treinamento de SQL !!
-![image info](./assets/img/sql.png)
+![image info](./sql.png)
 
 > Esse repositório foi criado para treinar consultas SQL 
 > e desenvolver as seguintes habilidades:
