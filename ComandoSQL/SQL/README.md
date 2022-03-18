@@ -13,7 +13,7 @@
 ## Ferramentas gráficas utilizadas:
 
 - [x] - Workbench SQL;
-![image info](./assets/img/wb.jpg)
+![image info](./assets/img/wb.jpg =200x200)
 
 - [x] - Extensão VS Code Database Client for Visual Studio Code.
 ![image info](./assets/img/vs.png)
